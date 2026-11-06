@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for tms-vc-bot-k on 2026-11-06T13:51:54Z
+# fly.toml app configuration file generated for tms-vc-bot-k on 2026-11-06T14:18:28Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = 'tms-vc-bot-k'
-primary_region = 'ams'
+primary_region = 'sin'
 
 [build]
 [http_service]
